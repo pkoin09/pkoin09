@@ -1,35 +1,75 @@
-<h1 align="center">Hi There 👋</h1>
+<div align="center">
 
-<h3>About Me</h3>
-<p>I'm a Fullstack Developer specializing in the MERN stack and equally skilled in Python. I'm always learning and dedicated to staying ahead with the latest tech trends and best practices.</p>
+# Hi, I'm Kim Koinz 👋
 
-<h3>Tech Stack</h3>
-<div>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js badbe" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python badge" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node badge" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3 badge" />
-  <br>
+### Full-Stack Software Engineer · Python · Data Systems · Automation
 
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react badge" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs badge" />
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby badge" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux badge" />
-  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" alt="graphQl" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-  <br>
+I build practical software that turns complex workflows and scattered data into clear, dependable tools.
 
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind badge" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass badge" />
-  <br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-kimkoins.me-111827?style=flat-square&logo=vercel&logoColor=white)](https://kimkoins.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kim_Koinz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koinz)
+[![Email](https://img.shields.io/badge/Email-pap.koin%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pap.koin@gmail.com)
 
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb badge" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL badge" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="" alt="" />
-  <br>
+</div>
 
-  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress badge" />
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest badge" />
-  <img src="" alt="" />
+---
+
+## About me
+
+I'm a full-stack engineer with a background in security operations and a focus on Python applications, data pipelines, workflow automation, and modern web development. I enjoy taking ambiguous, real-world problems and shaping them into systems that are easier to understand, operate, and extend.
+
+My recent work includes business-intelligence collection pipelines, financial-data processing, CRM workflow tooling, document retrieval, and full-stack applications built with Python and Next.js.
+
+## Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/pkoin09/biz_Intel">Biz Intel</a></h3>
+      <p>A configurable business-intelligence pipeline for collecting, normalizing, deduplicating, and enriching business data from multiple sources.</p>
+      <p><strong>Python · Scrapy · Playwright · DuckDB · YAML</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/pkoin09/Digitz">Digitz</a></h3>
+      <p>A financial-data workflow for ingesting and classifying transactions, neutralizing transfers, and producing analytics and tax-oriented exports.</p>
+      <p><strong>Python · DuckDB · Pandas · Gemini</strong></p>
+    </td>
+  </tr>
+</table>
+
+> More work—including CRM automation, document retrieval, and full-stack product development—is documented on my [portfolio](https://kimkoins.me).
+
+## Tools I work with
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Applications and APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Data and infrastructure**
+
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=111827)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## What I'm exploring
+
+- Reliable data ingestion and enrichment workflows
+- AI-assisted features grounded in useful application context
+- Small, maintainable systems that solve real operational problems
+
+---
+
+<div align="center">
+  <sub>Based in California · Open to software engineering opportunities</sub>
 </div>
